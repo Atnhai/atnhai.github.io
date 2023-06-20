@@ -100,7 +100,7 @@ const config = {
     {
       title: 'Ask-It',
       description:
-        'a web-based platform for students to ask and receive answers to homework questions from staff. Utilized MERN stack and GraphQL for seamless user experience.',
+        'A web-based platform for students to ask and receive answers to homework questions from staff. Utilized MERN stack and GraphQL for seamless user experience.',
       imageUrl: 'https://static.vecteezy.com/system/resources/previews/004/413/153/original/outlined-icon-of-group-of-people-doing-discussion-suitable-for-design-element-of-teamwork-discussion-social-networking-and-business-forum-free-vector.jpg',
       link: 'https://github.com/Atnhai/AskIt-Webboard/tree/master',
     },
