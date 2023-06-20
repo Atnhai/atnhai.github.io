@@ -1,59 +1,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45073703/177566625-9b84e793-4559-4475-ba54-8d3d5f4123d4.png" width="35%">
-
-  <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
-
-  <p align="center">
-    <a href="https://codeclimate.com/github/arifszn/gitprofile/maintainability">
-      <img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" />
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml">
-      <img src="https://github.com/arifszn/gitprofile/actions/workflows/test-deploy.yml/badge.svg" />
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/issues">
-      <img src="https://img.shields.io/github/issues/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/stargazers">
-      <img src="https://img.shields.io/github/stars/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/network/members">
-      <img src="https://img.shields.io/github/forks/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/package-lock.json">
-      <img src="https://img.shields.io/snyk/vulnerabilities/github/arifszn/gitprofile"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md">
-      <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
-    </a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/arifszn/gitprofile"/>
-    </a>
-    <a href="https://www.buymeacoffee.com/arifszn">
-      <img src="https://img.shields.io/badge/sponsor-buy%20me%20a%20coffee-yellow?logo=buymeacoffee"/>
-    </a>
-    <a href="https://twitter.com/intent/tweet?text=Check%20out%20the%20portfolio%20builder.%20Create%20an%20automatic%20portfolio%20based%20on%20GitHub%20profile.&url=https://github.com/arifszn/gitprofile&hashtags=javascript,opensource,js,webdev,developers">
-      <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Farifszn%2Fgitprofile"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
-  </p>
-</p>
-
-<p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/preview.gif" alt="Preview" width="60%"/>
-  </a>
-  <br/>
-  <a href="#arifszn"><img src="https://arifszn.netlify.app/assets/img/drop-shadow.png" width="50%" alt="Shadow"/></a>
-</p>
 
 **GitProfile** is an easy to use portfolio builder where you can create a portfolio page automatically by just providing your GitHub username. It is built using React.js on top of Vite. But it's not necessary to have knowledge on these to get you started. You can make your own copy with zero coding experience.
 
@@ -73,22 +20,6 @@
 ✓ [Education Section](#education)  
 ✓ [Projects Section](#projects)  
 ✓ [Blog Posts Section](#blog-posts)
-
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
-
-Or try it **[online](https://stackblitz.com/edit/gitprofile)**.
-
-<p align="center">
-  <img src="https://arifszn.netlify.app/assets/img/hosted/gitprofile/themes.png" alt="Themes">
-</p>
-
-## 🎉 Thank you for the 800 ★
-
-<p>
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://github.com/arifszn/gitprofile/assets/45073703/b3d34d17-cf55-4c74-bf44-3196b1f0ac66" alt="Thank You" width="50%"/>
-  </a>
-</p>
 
 ## 🛠 Installation & Setup
 
@@ -630,17 +561,6 @@ const config = {
   },
 };
 ```
-
-![Blog](https://arifszn.netlify.app/assets/img/hosted/gitprofile/blog.png)
-
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
-
-## 💖 Support
-
-<p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
-</a>
 
 ## 💡 Contribute
 
