@@ -59,7 +59,7 @@ const config = {
     },
     {
       company: 'A T PRO CO., LTD.',
-      position: 'Software Engineer',
+      position: 'SOFTWARE ENGINEER (INTERNSHIP)',
       from: 'June 2021',
       to: 'July 2021',
       companyLink: 'http://www.atprothai.com/',
